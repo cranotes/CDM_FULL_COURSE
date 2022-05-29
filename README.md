@@ -68,10 +68,10 @@
 
 ![Screen Shot 2022-05-29 at 1 17 26 PM](https://user-images.githubusercontent.com/99203797/170886527-7b253b6a-3e43-456c-be77-207ac9e1a87d.png)
 
+![Screen Shot 2022-05-29 at 1 21 09 PM](https://user-images.githubusercontent.com/99203797/170886533-28a3269c-880e-418d-8dc4-dafbee0fd13b.png)
 
 ![Screen Shot 2022-05-29 at 1 19 04 PM](https://user-images.githubusercontent.com/99203797/170886530-024ed59a-a7d4-44db-bfc4-c95c09fb282c.png)
 
-![Screen Shot 2022-05-29 at 1 21 09 PM](https://user-images.githubusercontent.com/99203797/170886533-28a3269c-880e-418d-8dc4-dafbee0fd13b.png)
 
 ## QUALITY CHECKS
 ![Screen Shot 2022-05-29 at 1 21 56 PM](https://user-images.githubusercontent.com/99203797/170886545-54f397db-6083-4fdc-8577-05f6cd89a863.png)

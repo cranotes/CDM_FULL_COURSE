@@ -1,7 +1,7 @@
 
 # CDM_FULL_COURSE
 
-## Introduction to CDM
+## Session One: Introduction to CDM
 
 ![Screen Shot 2022-05-29 at 12 07 43 PM](https://user-images.githubusercontent.com/99203797/170886262-cfecb98e-b623-4929-8398-8f2c080f37bf.png)
 
@@ -82,6 +82,13 @@
 ![Screen Shot 2022-05-29 at 1 27 49 PM](https://user-images.githubusercontent.com/99203797/170886556-28461966-6453-4e55-bff1-273c2c7cbb2b.png)
 
 
+## Seeion Two: Process Flow Overview
+
+***Different Components of CDM***
+***How Clinical MGT Happens***
+***Who are Accountable and their Roles***
+***Softwares Used in CDM***
+***Benefits Of CDM***
 
 
 
